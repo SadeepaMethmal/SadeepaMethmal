@@ -69,12 +69,7 @@ Currently exploring **cybersecurity, full-stack development, and UI/UX design** 
     height="160"
     alt="GitHub stats"
   />
-  <!-- Streak -->
-  <img
-    src="https://streak-stats.demolab.com?user=SadeepaMethmal&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&v=1"
-    height="160"
-    alt="GitHub streak"
-  />
+
 </p>
 
 <p align="center">
