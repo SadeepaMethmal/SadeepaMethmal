@@ -6,6 +6,13 @@
 </p>
 
 <!-- =============================== -->
+<!-- ANIMATED TYPING LINE -->
+<!-- =============================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1e3c72&center=true&vCenter=true&width=600&lines=Passionate+about+Coding;Full-Stack+Developer+in+Progress;Exploring+Cybersecurity+and+UI%2FUX;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
+</p>
+
+<!-- =============================== -->
 <!-- QUICK META -->
 <!-- =============================== -->
 <p align="center">
