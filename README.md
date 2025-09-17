@@ -6,9 +6,11 @@
 </p>
 
 <!-- =============================== -->
-<!-- SEPARATOR LINE -->
+<!-- ANIMATED SEPARATOR LINE (works on GitHub) -->
 <!-- =============================== -->
-<hr style="border: 1px solid #1e3c72; margin: -10px 0 20px 0;" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=4&section=header&animation=twinkling&v=1" width="80%" alt="animated separator"/>
+</p>
 
 <!-- =============================== -->
 <!-- ANIMATED TYPING LINE -->
