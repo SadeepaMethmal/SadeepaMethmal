@@ -9,7 +9,7 @@
 <!-- ANIMATED SEPARATOR LINE (works on GitHub) -->
 <!-- =============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=4&section=header&animation=twinkling&v=1" width="80%" alt="animated separator"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=4&section=header&animation=twinkling&v=1" width="100%" alt="animated separator"/>
 </p>
 
 <!-- =============================== -->
