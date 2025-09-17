@@ -83,11 +83,9 @@ Currently exploring **Full-stack development, and UI/UX design** while strengthe
 
 ## 🤝 Connect with Me  
 
-<p align="center">
-  <a href="mailto:sadeepamethmal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sadeepa-methmal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-</p>
-
+- 🌐 Facebook: [Inosh Matheesha](https://www.facebook.com/sadeepamethmal11) 
+- 📧 Email: [inoshmatheesha@gmail.com](mailto:sadeepemethmal@gmail.com)
+- Linkdn: [Inosh](https://www.linkedin.com/in/sadeepa-methmal-7a3894298)
 ---
 
 <!-- =============================== -->
