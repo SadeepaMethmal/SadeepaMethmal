@@ -1,4 +1,3 @@
-<img width="512" height="512" alt="facebook" src="https://github.com/user-attachments/assets/7d888fba-f000-4fe0-b38c-37953badf87d" /><!-- =============================== -->
 <!-- HEADER BANNER -->
 <!-- =============================== -->
 <p align="center">
