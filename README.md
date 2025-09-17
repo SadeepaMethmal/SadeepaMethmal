@@ -6,11 +6,9 @@
 </p>
 
 <!-- =============================== -->
-<!-- ANIMATED SEPARATOR LINE (works on GitHub) -->
+<!-- SEPARATOR LINE -->
 <!-- =============================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=4&section=header&animation=twinkling&v=1" width="100%" alt="animated separator"/>
-</p>
+<hr style="border: 1px solid #1e3c72; margin: -10px 0 20px 0;" />
 
 <!-- =============================== -->
 <!-- ANIMATED TYPING LINE -->
@@ -34,11 +32,11 @@
 
 Hi! I’m **Sadeepa Methmal**, a **Software Engineering undergraduate @ SLIIT**.  
 I’m driven by a passion for **coding, problem-solving, and building secure, scalable applications**.  
-Currently exploring **cybersecurity, full-stack development, and UI/UX design** while strengthening my foundations in **DSA and system design**.  
+Currently exploring **Full-stack development, and UI/UX design** while strengthening my foundations in **DSA and system design**.  
 
-- 🎓 BSc (Hons) in Information Technology (Software Engineering)  
-- 💻 Love working with **full-stack web development & modern frameworks**  
-- 🔐 Interested in **cyber defense & secure coding practices**  
+- 🎓 Software Engineering undergraduate **@SLIIT** 
+- 💻 Love working with **Full-stack web development & modern frameworks**  
+- 🔐 Passionate about **Coding and building innovative**  
 - 🌱 Always learning, building, and sharing knowledge  
 
 ---
