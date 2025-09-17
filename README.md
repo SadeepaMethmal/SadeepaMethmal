@@ -18,12 +18,12 @@
 
 ## 👨‍💻 About Me  
 Hi! I’m **Sadeepa Methmal**, a **Software Engineering undergraduate @ SLIIT**.  
-I’m passionate about **software development, cybersecurity, and UI/UX design**.  
+I’m passionate about **software development, and UI/UX design**.  
 Currently exploring **secure system design** and sharpening my **problem-solving skills** through DSA & projects.  
 
-- 🎓 BSc (Hons) in Information Technology (Software Engineering)  
+- 🎓 Software Enginnering undergraduate at **SLIIT**  
 - 💻 Love working with **full-stack web development & modern frameworks**  
-- 🔐 Interested in **cyber defense & secure coding practices**  
+- 🔐 Passionate about **coding and building innovative, real-world solutions**  
 - 🌱 Always learning, building, and sharing knowledge  
 
 ---
@@ -39,12 +39,27 @@ Currently exploring **secure system design** and sharpening my **problem-solving
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SadeepaMethmal&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=SadeepaMethmal&theme=tokyonight&hide_border=true" height="165"/>
+  <!-- Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SadeepaMethmal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=7200&v=1"
+    height="160"
+    alt="GitHub stats"
+  />
+  <!-- Streak -->
+  <img
+    src="https://streak-stats.demolab.com?user=SadeepaMethmal&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&v=1"
+    height="160"
+    alt="GitHub streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeepaMethmal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeepaMethmal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=7200&v=1"
+    height="160"
+    alt="Top languages"
+  />
 </p>
 
 ---
