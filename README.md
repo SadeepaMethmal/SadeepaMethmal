@@ -2,7 +2,7 @@
 <!-- HEADER BANNER -->
 <!-- =============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sadeepa%20Methmal&fontSize=48&fontAlign=50&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Sadeepa%20Methmal&fontSize=48&fontAlign=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=60" width="100%"/>
 </p>
 
 <!-- =============================== -->
@@ -87,5 +87,5 @@ Currently exploring **cybersecurity, full-stack development, and UI/UX design** 
 <!-- FOOTER -->
 <!-- =============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=80&section=footer&animation=fadeIn" width="100%"/>
 </p>
