@@ -18,12 +18,12 @@
 
 ## 👨‍💻 About Me  
 Hi! I’m **Sadeepa Methmal**, a **Software Engineering undergraduate @ SLIIT**.  
-I’m passionate about **software development, and UI/UX design**.  
+I’m passionate about **software development, cybersecurity, and UI/UX design**.  
 Currently exploring **secure system design** and sharpening my **problem-solving skills** through DSA & projects.  
 
-- 🎓 Software Enginnering undergraduate at **SLIIT**  
+- 🎓 BSc (Hons) in Information Technology (Software Engineering)  
 - 💻 Love working with **full-stack web development & modern frameworks**  
-- 🔐 Passionate about **coding and building innovative, real-world solutions**  
+- 🔐 Interested in **cyber defense & secure coding practices**  
 - 🌱 Always learning, building, and sharing knowledge  
 
 ---
@@ -37,6 +37,8 @@ Currently exploring **secure system design** and sharpening my **problem-solving
 ---
 
 ## 📊 GitHub Insights  
+
+## 📊 GitHub Insights
 
 <p align="center">
   <!-- Stats -->
@@ -61,6 +63,7 @@ Currently exploring **secure system design** and sharpening my **problem-solving
     alt="Top languages"
   />
 </p>
+
 
 ---
 
