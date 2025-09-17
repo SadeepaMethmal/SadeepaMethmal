@@ -6,11 +6,19 @@
 </p>
 
 <!-- =============================== -->
+<!-- ANIMATED SEPARATOR LINE -->
+<!-- =============================== -->
+<p align="center">
+  <img src="https://svgur.com/i/16rS.svg" width="80%" alt="animated line"/>
+</p>
+
+<!-- =============================== -->
 <!-- ANIMATED TYPING LINE -->
 <!-- =============================== -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1e3c72&center=true&vCenter=true&width=600&lines=Passionate+about+Coding;Full-Stack+Developer+in+Progress;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
 </p>
+
 <!-- =============================== -->
 <!-- QUICK META -->
 <!-- =============================== -->
