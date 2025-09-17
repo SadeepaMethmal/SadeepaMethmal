@@ -133,4 +133,3 @@ I'm **Inosh Matheesha**, an undergraduate **Cyber Security Student** with a Pass
 </p>
 
 
-i want to make my profile as this but not this giove me alternative versio much more thna ctiative and beutiful trhan this
