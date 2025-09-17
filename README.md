@@ -17,9 +17,10 @@
 ---
 
 ## 👨‍💻 About Me  
+
 Hi! I’m **Sadeepa Methmal**, a **Software Engineering undergraduate @ SLIIT**.  
-I’m passionate about **software development, cybersecurity, and UI/UX design**.  
-Currently exploring **secure system design** and sharpening my **problem-solving skills** through DSA & projects.  
+I’m driven by a passion for **coding, problem-solving, and building secure, scalable applications**.  
+Currently exploring **cybersecurity, full-stack development, and UI/UX design** while strengthening my foundations in **DSA and system design**.  
 
 - 🎓 BSc (Hons) in Information Technology (Software Engineering)  
 - 💻 Love working with **full-stack web development & modern frameworks**  
@@ -31,14 +32,21 @@ Currently exploring **secure system design** and sharpening my **problem-solving
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,php,js,ts,html,css,react,nextjs,tailwind,nodejs,express,spring,mysql,mongodb,postman,git,github&perline=10" />
+  <a href="https://skillicons.dev">
+    <!-- Languages -->
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,php,js,ts,html,css&perline=16" />
+    <br/>
+    <!-- Frontend / UI -->
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma,vite&perline=16" />
+    <br/>
+    <!-- Backend / DevOps -->
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb,postman,git,github,androidstudio&perline=16" />
+  </a>
 </p>
 
 ---
 
 ## 📊 GitHub Insights  
-
-## 📊 GitHub Insights
 
 <p align="center">
   <!-- Stats -->
@@ -63,7 +71,6 @@ Currently exploring **secure system design** and sharpening my **problem-solving
     alt="Top languages"
   />
 </p>
-
 
 ---
 
