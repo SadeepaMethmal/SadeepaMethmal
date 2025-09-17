@@ -6,11 +6,9 @@
 </p>
 
 <!-- =============================== -->
-<!-- ANIMATED SEPARATOR LINE -->
+<!-- SEPARATOR LINE -->
 <!-- =============================== -->
-<p align="center">
-  <img src="https://svgur.com/i/16rS.svg" width="80%" alt="animated line"/>
-</p>
+<hr style="border: 1px solid #1e3c72; margin: -10px 0 20px 0;" />
 
 <!-- =============================== -->
 <!-- ANIMATED TYPING LINE -->
