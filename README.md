@@ -2,16 +2,8 @@
 <!-- TOP BANNER — Dynamic Gradient -->
 <!-- =============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sadeepa%20Methmal&fontSize=48&fontAlign=50&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Cyber%20Security%20Student%20%7C%20Web%20Developer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=60" alt="banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sadeepa%20Wijesingha&fontSize=48&fontAlign=50&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=60" alt="banner" width="100%"/>
 </p>
-
-
-  <!-- Typing line -->
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF00&center=true&width=950&duration=3000&lines=Access+Granted...;Cyber+Security+Undergraduate;Ethical+Hacking+%7C+Secure+Coding;Web+Security+%2B+Full-Stack+Development;Hack.+Learn.+Secure.+Repeat." alt="hacker typing">
-</p>
-
-
-
 
 <!-- =============================== -->
 <!-- QUICK META -->
@@ -142,4 +134,3 @@ I'm **Inosh Matheesha**, an undergraduate **Cyber Security Student** with a Pass
 
 
 i want to make my profile as this but not this giove me alternative versio much more thna ctiative and beutiful trhan this
-
