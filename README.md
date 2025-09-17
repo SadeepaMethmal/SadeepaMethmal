@@ -2,16 +2,15 @@
 <!-- HEADER BANNER -->
 <!-- =============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Sadeepa%20Methmal&fontSize=46&fontAlign=50&fontAlignY=32&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Sadeepa%20Methmal&fontSize=48&fontAlign=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=60" width="100%"/>
 </p>
 
 <!-- =============================== -->
 <!-- ANIMATED TYPING LINE -->
 <!-- =============================== -->
-<p align="center" style="margin-top:-20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1e3c72&center=true&vCenter=true&width=600&lines=<b>Passionate+about+Coding</b>;<b>Full-Stack+Developer+in+Progress</b>;<b>Always+Learning+%7C+Always+Building</b>" alt="Typing Animation" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1e3c72&center=true&vCenter=true&width=600&lines=Passionate+about+Coding;Full-Stack+Developer+in+Progress;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
 </p>
-
 <!-- =============================== -->
 <!-- QUICK META -->
 <!-- =============================== -->
