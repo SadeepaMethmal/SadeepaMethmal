@@ -1,4 +1,4 @@
-<!-- =============================== -->
+<img width="512" height="512" alt="facebook" src="https://github.com/user-attachments/assets/7d888fba-f000-4fe0-b38c-37953badf87d" /><!-- =============================== -->
 <!-- HEADER BANNER -->
 <!-- =============================== -->
 <p align="center">
@@ -83,9 +83,10 @@ Currently exploring **Full-stack development, and UI/UX design** while strengthe
 
 ## 🤝 Connect with Me  
 
-- 🌐 Facebook: [Inosh Matheesha](https://www.facebook.com/sadeepamethmal11) 
-- 📧 Email: [inoshmatheesha@gmail.com](mailto:sadeepemethmal@gmail.com)
-- Linkdn: [Inosh](https://www.linkedin.com/in/sadeepa-methmal-7a3894298)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/> [LinkedIn: Sadeepa](https://www.linkedin.com/in/sadeepa-methmal-7a3894298)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" height="20"/> [Email: sadeepemethmal@gmail.com](mailto:sadeepemethmal@gmail.com)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="20" height="20"/> [Facebook: Sadeepa Methmal](https://www.facebook.com/sadeepamethmal11)  
+
 ---
 
 <!-- =============================== -->
