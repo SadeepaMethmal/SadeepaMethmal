@@ -68,16 +68,6 @@ Currently exploring **Full-stack development, and UI/UX design** while strengthe
   />
 
 </p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeepaMethmal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=7200&v=1"
-    height="160"
-    alt="Top languages"
-  />
-</p>
-
 ---
 
 ## 🤝 Connect with Me  
