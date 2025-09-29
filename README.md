@@ -37,7 +37,6 @@ Currently exploring **Full-stack development, and UI/UX design** while strengthe
 - 🔐 Passionate about **Coding and building innovative**  
 - 🌱 Always learning, building, and sharing knowledge  
 
----
 
 ## 🛠️ Tech Stack  
 
@@ -54,7 +53,6 @@ Currently exploring **Full-stack development, and UI/UX design** while strengthe
   </a>
 </p>
 
----
 
 ## 📊 GitHub Insights  
 
@@ -67,7 +65,7 @@ Currently exploring **Full-stack development, and UI/UX design** while strengthe
   />
 
 </p>
----
+
 
 ## 🤝 Connect with Me  
 
@@ -75,7 +73,6 @@ Currently exploring **Full-stack development, and UI/UX design** while strengthe
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" height="20"/> [Email: sadeepemethmal@gmail.com](mailto:sadeepemethmal@gmail.com)  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="20" height="20"/> [Facebook: Sadeepa Methmal](https://www.facebook.com/sadeepamethmal11)  
 
----
 
 <!-- =============================== -->
 <!-- FOOTER -->
