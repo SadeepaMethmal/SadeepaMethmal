@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/github/stars/SadeepaMethmal?label=Stars&style=flat-square" alt="stars"/>
 </p>
 
----
 
 ## 👨‍💻 About Me  
 
