@@ -108,9 +108,6 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
   <a href="https://github.com/SadeepaMethmal" target="_blank">
     <img src="https://img.icons8.com/ios-filled/40/2c3e50/github.png" alt="GitHub"/>
   </a>
-  <a href="https://www.facebook.com/sadeepamethmal11" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/2c3e50/instagram-new.png" alt="Instagram"/>
-  </a>
 </p>
 
 <!-- Professional vibe badges -->
