@@ -1,28 +1,28 @@
 <!-- HEADER BANNER -->
 <!-- =============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Sadeepa%20Methmal&fontSize=48&fontAlign=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=200&section=header&text=Sadeepa%20Methmal&fontSize=48&fontAlign=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=60" width="100%"/>
 </p>
 
 <!-- =============================== -->
 <!-- SEPARATOR LINE -->
 <!-- =============================== -->
-<hr style="border: 1px solid #1e3c72; margin: -10px 0 20px 0;" />
+<hr style="border: 1px solid #000000; margin: -10px 0 20px 0;" />
 
 <!-- =============================== -->
 <!-- ANIMATED TYPING LINE -->
 <!-- =============================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1e3c72&center=true&vCenter=true&width=600&lines=Passionate+about+Coding;Full-Stack+Developer+in+Progress;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Passionate+about+Coding;Full-Stack+Developer+in+Progress;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
 </p>
 
 <!-- =============================== -->
 <!-- QUICK META -->
 <!-- =============================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SadeepaMethmal&label=Profile%20Views&color=1e78c1&style=flat-square" alt="views"/>
-  <img src="https://img.shields.io/github/followers/SadeepaMethmal?label=Followers&style=flat-square" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/SadeepaMethmal?label=Stars&style=flat-square" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=SadeepaMethmal&label=Profile%20Views&color=000000&style=flat-square" alt="views"/>
+  <img src="https://img.shields.io/github/followers/SadeepaMethmal?label=Followers&style=flat-square&color=000000" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/SadeepaMethmal?label=Stars&style=flat-square&color=000000" alt="stars"/>
 </p>
 
 
@@ -30,11 +30,11 @@
 
 Hi! I’m **Sadeepa Methmal**, a **Software Engineering undergraduate @ SLIIT**.  
 I’m driven by a passion for **coding, problem-solving, and building secure, scalable applications**.  
-Currently exploring **Full-stack development, and UI/UX design** while strengthening my foundations in **DSA and system design**.  
+Currently exploring **Full-stack development and UI/UX design**, while strengthening my foundations in **DSA and system design**.  
 
-- 🎓 Software Engineering undergraduate **@SLIIT** 
+- 🎓 Software Engineering undergraduate **@SLIIT**  
 - 💻 Love working with **Full-stack web development & modern frameworks**  
-- 🔐 Passionate about **Coding and building innovative**  
+- 🔐 Passionate about **Coding and building innovative solutions**  
 - 🌱 Always learning, building, and sharing knowledge  
 
 
@@ -59,11 +59,10 @@ Currently exploring **Full-stack development, and UI/UX design** while strengthe
 <p align="center">
   <!-- Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SadeepaMethmal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=7200&v=1"
+    src="https://github-readme-stats.vercel.app/api?username=SadeepaMethmal&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&cache_seconds=7200&v=1"
     height="160"
     alt="GitHub stats"
   />
-
 </p>
 
 
@@ -78,5 +77,5 @@ Currently exploring **Full-stack development, and UI/UX design** while strengthe
 <!-- FOOTER -->
 <!-- =============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=80&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=80&section=footer&animation=fadeIn" width="100%"/>
 </p>
