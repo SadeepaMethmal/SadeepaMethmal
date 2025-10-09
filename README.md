@@ -88,7 +88,7 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
 
 
 
-## 🤝 Contact Me  
+## 🤝 Contact Details
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" height="28" style="margin-right:8px;"> Contact Me
@@ -112,13 +112,7 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
   </a>
 </p>
 
-<!-- Professional vibe badges -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-JavaScript%20%26%20Java-bdc3c7?style=for-the-badge&logo=javascript&logoColor=2c3e50" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-34495e?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Ask%20Me-Algorithms%20%26%20C++-7f8c8d?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</div>
+
 
 
 
