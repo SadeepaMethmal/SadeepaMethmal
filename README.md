@@ -98,6 +98,7 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
   <a href="https://www.linkedin.com/in/sadeepa-methmal-7a3894298" target="_blank">
     <img src="https://img.icons8.com/ios-filled/40/2c3e50/linkedin.png" alt="LinkedIn"/>
   </a>
+  
   <a href="https://github.com/SadeepaMethmal" target="_blank">
     <img src="https://img.icons8.com/ios-filled/40/2c3e50/github.png" alt="GitHub"/>
   </a>
