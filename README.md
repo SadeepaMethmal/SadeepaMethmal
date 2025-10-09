@@ -98,6 +98,11 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
 </div>
 
 
+## 🎧 Music
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+</div>
+
 
 ## 🤝 Contact Details
 
@@ -131,11 +136,6 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
   <img src="https://img.shields.io/badge/Ask%20Me-Algorithms%20%26%20C++-7f8c8d?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
 
-
-## 🎧 Music
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-</div>
 
 <!-- =============================== -->
 <!-- FOOTER -->
