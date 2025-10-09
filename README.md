@@ -62,14 +62,14 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
   <tr>
     <td align="center" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=SadeepaMethmal&show_icons=true&theme=blue_navy&hide_border=true&include_all_commits=true&cache_seconds=7200&v=1"
+        src="https://github-readme-stats.vercel.app/api?username=SadeepaMethmal&show_icons=true&theme=blue_navy&hide_border=true&include_all_commits=true&cache_seconds=7200&bg_color=00000000&v=1"
         height="160"
         alt="GitHub stats"
       />
     </td>
     <td align="center" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeepaMethmal&layout=compact&theme=blue_navy&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeepaMethmal&layout=compact&theme=blue_navy&hide_border=true&bg_color=00000000"
         height="160"
         alt="Most Used Languages"
       />
@@ -80,10 +80,11 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
 <!-- Contribution Graph in separate row -->
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SadeepaMethmal&theme=react&hide_border=true&bg_color=ffffff&color=0a3d62&line=3c6382&point=60a3bc"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SadeepaMethmal&theme=react&hide_border=true&bg_color=00000000&color=0a3d62&line=3c6382&point=60a3bc"
     alt="Contribution Graph"
   />
 </p>
+
 
 
 
@@ -135,6 +136,8 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
   <img src="https://img.shields.io/badge/Ask%20Me-Algorithms%20%26%20C++-82ccdd?style=for-the-badge&logo=c%2B%2B&logoColor=0a3d62" />
 </div>
 
+
+## 🏆 Trophies
 <!-- Tropies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=SadeepaMethmal&theme=algolia&no-frame=true" height="150" alt="trophy graph" />
