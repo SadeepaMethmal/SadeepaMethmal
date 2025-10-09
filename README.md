@@ -62,34 +62,37 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
 </p>
 
 
-
 ## 📊 GitHub Insights  
 
-<p align="center">
-  <!-- Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SadeepaMethmal&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&cache_seconds=7200&v=1"
-    height="160"
-    alt="GitHub stats"
-  />
-</p>
+<table align="center">
+  <tr>
+    <!-- Contribution Graph on the left -->
+    <td align="center" width="60%">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=SadeepaMethmal&theme=github-compact&hide_border=true"
+        alt="Contribution Graph"
+        height="300"
+      />
+    </td>
+    
+    <!-- Stats + Languages on the right --
+    <td align="center" width="40%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=SadeepaMethmal&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&cache_seconds=7200&v=1"
+        height="160"
+        alt="GitHub stats"
+      />
+      <br/><br/>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeepaMethmal&layout=compact&theme=graywhite&hide_border=true"
+        height="160"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <!-- Most Used Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeepaMethmal&layout=compact&theme=graywhite&hide_border=true"
-    height="160"
-    alt="Most Used Languages"
-  />
-</p>
 
-<p align="center">
-  <!-- Contribution Graph -->
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SadeepaMethmal&theme=github-compact&hide_border=true"
-    alt="Contribution Graph"
-  />
-</p>
 
 
 
