@@ -90,14 +90,24 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
 
 ## ✔️ My Projects  
 
-<div align="left" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SadeepaMethmal/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@SadeepaMethmal/0" alt="Medium post 1"  />
+<p align="center">
+  <a href="https://github.com/SadeepaMethmal/RailXpress">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SadeepaMethmal&repo=RailXpress&theme=blue_navy&bg_color=00000000&hide_border=true" />
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SadeepaMethmal/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@SadeepaMethmal/1" alt="Medium post 2"  />
+  <a href="https://github.com/SadeepaMethmal/Leafy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SadeepaMethmal&repo=Leafy&theme=blue_navy&bg_color=00000000&hide_border=true" />
   </a>
-</div>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SadeepaMethmal/Lifeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SadeepaMethmal&repo=Lifeline&theme=blue_navy&bg_color=00000000&hide_border=true" />
+  </a>
+  <a href="https://github.com/SadeepaMethmal/Gettz-Fitness-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SadeepaMethmal&repo=Gettz-Fitness-Management-System&theme=blue_navy&bg_color=00000000&hide_border=true" />
+  </a>
+</p>
+
 
 
 
