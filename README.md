@@ -62,6 +62,7 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
 </p>
 
 
+
 ## 📊 GitHub Insights  
 
 <p align="center">
@@ -72,6 +73,24 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
     alt="GitHub stats"
   />
 </p>
+
+<p align="center">
+  <!-- Most Used Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeepaMethmal&layout=compact&theme=graywhite&hide_border=true"
+    height="160"
+    alt="Most Used Languages"
+  />
+</p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SadeepaMethmal&theme=github-compact&hide_border=true"
+    alt="Contribution Graph"
+  />
+</p>
+
 
 
 ## 🤝 Contact Me  
