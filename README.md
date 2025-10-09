@@ -86,6 +86,17 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
   />
 </p>
 
+## ✔️ My Projects
+
+<div align="left" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SadeepaMethmal/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@SadeepaMethmal/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@SadeepaMethmal/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@SadeepaMethmal/1" alt="Medium post 2"  />
+  </a>
+</div>
+
 
 
 ## 🤝 Contact Details
