@@ -90,15 +90,20 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
 
 ## ✔️ My Projects  
 
-<p align="left">
-  <a href="https://github.com/SadeepaMethmal/Project_LIFELINE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SadeepaMethmal&repo=Project_LIFELINE&theme=blue_navy&bg_color=00000000&hide_border=true" />
-  </a>
-  
-  <a href="https://github.com/SadeepaMethmal/Project_LEAFY">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SadeepaMethmal&repo=Project_LEAFY&theme=blue_navy&bg_color=00000000&hide_border=true" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/SadeepaMethmal/Project_LIFELINE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SadeepaMethmal&repo=Project_LIFELINE&theme=blue_navy&bg_color=00000000&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/SadeepaMethmal/Project_LEAFY">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SadeepaMethmal&repo=Project_LEAFY&theme=blue_navy&bg_color=00000000&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
