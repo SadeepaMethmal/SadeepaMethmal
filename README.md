@@ -91,22 +91,15 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
 ## ✔️ My Projects  
 
 <p align="center">
-  <a href="[https://github.com/SadeepaMethmal/RailXpress](https://github.com/SadeepaMethmal/Project_LIFELINE)">
+  <a href="https://github.com/SadeepaMethmal/Project_LIFELINE">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SadeepaMethmal&repo=RailXpress&theme=blue_navy&bg_color=00000000&hide_border=true" />
   </a>
+  
   <a href="https://github.com/SadeepaMethmal/Leafy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SadeepaMethmal&repo=Leafy&theme=blue_navy&bg_color=00000000&hide_border=true" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/SadeepaMethmal/Lifeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SadeepaMethmal&repo=Lifeline&theme=blue_navy&bg_color=00000000&hide_border=true" />
-  </a>
-  <a href="https://github.com/SadeepaMethmal/Gettz-Fitness-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SadeepaMethmal&repo=Gettz-Fitness-Management-System&theme=blue_navy&bg_color=00000000&hide_border=true" />
-  </a>
-</p>
 
 
 
