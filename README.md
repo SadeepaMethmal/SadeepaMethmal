@@ -1,19 +1,19 @@
 <!-- HEADER BANNER -->
 <!-- =============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=200&section=header&text=Sadeepa%20Methmal&fontSize=48&fontAlign=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:bdc3c7&height=200&section=header&text=Sadeepa%20Methmal&fontSize=48&fontAlign=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=60" width="100%"/>
 </p>
 
 <!-- =============================== -->
 <!-- SEPARATOR LINE -->
 <!-- =============================== -->
-<hr style="border: 1px solid #000000; margin: -10px 0 20px 0;" />
+<hr style="border: 1px solid #2c3e50; margin: -10px 0 20px 0;" />
 
 <!-- =============================== -->
 <!-- ANIMATED TYPING LINE -->
 <!-- =============================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Passionate+about+Coding;Full-Stack+Developer+in+Progress;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2c3e50&center=true&vCenter=true&width=600&lines=Passionate+about+Coding;Full-Stack+Developer+in+Progress;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
 </p>
 
 <!-- =============================== -->
@@ -28,9 +28,9 @@
 <!-- QUICK META -->
 <!-- =============================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SadeepaMethmal&label=Profile%20Views&color=000000&style=flat-square" alt="views"/>
-  <img src="https://img.shields.io/github/followers/SadeepaMethmal?label=Followers&style=flat-square&color=000000" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/SadeepaMethmal?label=Stars&style=flat-square&color=000000" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=SadeepaMethmal&label=Profile%20Views&color=2c3e50&style=flat-square" alt="views"/>
+  <img src="https://img.shields.io/github/followers/SadeepaMethmal?label=Followers&style=flat-square&color=34495e" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/SadeepaMethmal?label=Stars&style=flat-square&color=7f8c8d" alt="stars"/>
 </p>
 
 
@@ -70,14 +70,14 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
   <tr>
     <td align="center" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=SadeepaMethmal&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&cache_seconds=7200&v=1"
+        src="https://github-readme-stats.vercel.app/api?username=SadeepaMethmal&show_icons=true&theme=default&hide_border=true&include_all_commits=true&cache_seconds=7200&v=1"
         height="160"
         alt="GitHub stats"
       />
     </td>
     <td align="center" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeepaMethmal&layout=compact&theme=graywhite&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeepaMethmal&layout=compact&theme=default&hide_border=true"
         height="160"
         alt="Most Used Languages"
       />
@@ -88,7 +88,7 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
 <!-- Contribution Graph in separate row -->
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SadeepaMethmal&theme=github-compact&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SadeepaMethmal&theme=react-dark&hide_border=true"
     alt="Contribution Graph"
   />
 </p>
@@ -103,22 +103,22 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sadeepa-methmal-7a3894298" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/000000/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/ios-filled/40/2c3e50/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/SadeepaMethmal" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/000000/github.png" alt="GitHub"/>
+    <img src="https://img.icons8.com/ios-filled/40/2c3e50/github.png" alt="GitHub"/>
   </a>
   <a href="https://www.facebook.com/sadeepamethmal11" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/000000/instagram-new.png" alt="Instagram"/>
+    <img src="https://img.icons8.com/ios-filled/40/2c3e50/instagram-new.png" alt="Instagram"/>
   </a>
 </p>
 
-<!-- Gradient vibe badges -->
+<!-- Professional vibe badges -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-black?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-JavaScript%20%26%20Java-white?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-black?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ask%20Me-Algorithms%20%26%20C++-white?style=for-the-badge&logo=c%2B%2B&logoColor=black" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-2c3e50?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-JavaScript%20%26%20Java-bdc3c7?style=for-the-badge&logo=javascript&logoColor=2c3e50" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-34495e?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Algorithms%20%26%20C++-7f8c8d?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
 
 
@@ -127,5 +127,5 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
 <!-- FOOTER -->
 <!-- =============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=80&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:bdc3c7&height=80&section=footer&animation=fadeIn" width="100%"/>
 </p>
