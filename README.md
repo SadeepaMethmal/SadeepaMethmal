@@ -96,7 +96,7 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sadeepa-methmal-7a3894298" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/2c3e50/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   
   <a href="https://github.com/SadeepaMethmal" target="_blank">
