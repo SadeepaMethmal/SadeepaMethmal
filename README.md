@@ -16,13 +16,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2c3e50&center=true&vCenter=true&width=600&lines=Passionate+about+Coding;Full-Stack+Developer+in+Progress;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
 </p>
 
-<!-- =============================== -->
-<!-- QUICK FACTS LINE -->
-<!-- =============================== -->
-<p align="center">
-  🎓 <b>Undergraduate @ SLIIT</b> · 💡 <b>Innovator</b> · 👨‍💻 <b>Developer</b> · 🚀 <b>Problem Solver</b>
-</p>
-
 
 <!-- =============================== -->
 <!-- QUICK META -->
