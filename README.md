@@ -121,7 +121,10 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
 </div>
 
 
-
+## 🎧 Music
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+</div>
 
 <!-- =============================== -->
 <!-- FOOTER -->
