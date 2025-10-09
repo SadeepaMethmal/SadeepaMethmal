@@ -90,7 +90,7 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
 
 ## ✔️ My Projects  
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/SadeepaMethmal/Project_LIFELINE">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SadeepaMethmal&repo=Project_LIFELINE&theme=blue_navy&bg_color=00000000&hide_border=true" />
   </a>
