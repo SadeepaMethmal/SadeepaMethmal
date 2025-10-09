@@ -66,11 +66,32 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
 </p>
 
 
-## 🤝 Connect with Me  
+## 🤝 Contact Me  
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/> [LinkedIn: Sadeepa](https://www.linkedin.com/in/sadeepa-methmal-7a3894298)  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" height="20"/> [Email: sadeepemethmal@gmail.com](mailto:sadeepemethmal@gmail.com)  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="20" height="20"/> [Facebook: Sadeepa Methmal](https://www.facebook.com/sadeepamethmal11)  
+<h3 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" height="28" style="margin-right:8px;"> Contact Me
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sadeepa-methmal-7a3894298" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/40/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/SadeepaMethmal" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/40/000000/github.png" alt="GitHub"/>
+  </a>
+  <a href="https://www.facebook.com/sadeepamethmal11" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/40/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+</p>
+
+<!-- Gradient vibe badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-JavaScript%20%26%20Java-white?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-black?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Algorithms%20%26%20C++-white?style=for-the-badge&logo=c%2B%2B&logoColor=black" />
+</div>
+
 
 
 <!-- =============================== -->
