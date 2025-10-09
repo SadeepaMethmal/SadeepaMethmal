@@ -85,6 +85,12 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
     alt="Contribution Graph"
   />
 </p>
+<!-- Tropies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=SadeepaMethmal&theme=tokyonight&no-frame=true" height="150" alt="trophy graph"  />
+</div>
+
+
 
 ## ✔️ My Projects
 
