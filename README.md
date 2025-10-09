@@ -95,7 +95,7 @@ Currently exploring **Full-stack development and UI/UX design**, while strengthe
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SadeepaMethmal&repo=RailXpress&theme=blue_navy&bg_color=00000000&hide_border=true" />
   </a>
   
-  <a href="https://github.com/SadeepaMethmal/Leafy">
+  <a href="https://github.com/SadeepaMethmal/Project_LEAFY">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SadeepaMethmal&repo=Leafy&theme=blue_navy&bg_color=00000000&hide_border=true" />
   </a>
 </p>
